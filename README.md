@@ -4,7 +4,7 @@
 
 ## Outputs
 
-<p align="center">
+>><p align="center">
   <img src="https://github.com/Prajwal-YP/imageCache/blob/main/cg1.png" alt="Main">
   <br>
   <b>1. Side View<b>
