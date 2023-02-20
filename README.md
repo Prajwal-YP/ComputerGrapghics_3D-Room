@@ -6,7 +6,7 @@
 ## Outputs
 
 <p align="center">
-  <img src="https://github.com/Prajwal-YP/imageCache/blob/main/cg1.png" alt="Main">
+  ![cg1](https://user-images.githubusercontent.com/87578946/220095841-97a7f999-2ee0-474d-8cc4-c3aa12fa3145.png)
   <br>
   <b>1. Side View<b>
 </p>
