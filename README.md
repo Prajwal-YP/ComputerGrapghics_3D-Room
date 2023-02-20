@@ -4,10 +4,9 @@
 > Link : https://drive.google.com/file/d/1UpSJc-NWnIXyOcUVIBUx91mq5A5LopWM/view
 
 ## Outputs
-![cg1](https://user-images.githubusercontent.com/87578946/220095841-97a7f999-2ee0-474d-8cc4-c3aa12fa3145.png)
-![https://user-images.githubusercontent.com/87578946/220095841-97a7f999-2ee0-474d-8cc4-c3aa12fa3145.png](https://user-images.githubusercontent.com/87578946/220095841-97a7f999-2ee0-474d-8cc4-c3aa12fa3145.png)
+
 <p align="center">
-  ![cg1](https://user-images.githubusercontent.com/87578946/220095841-97a7f999-2ee0-474d-8cc4-c3aa12fa3145.png)
+  <img src="https://user-images.githubusercontent.com/87578946/220095841-97a7f999-2ee0-474d-8cc4-c3aa12fa3145.png">
   <br>
   <b>1. Side View<b>
 </p>
